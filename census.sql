@@ -138,7 +138,7 @@ LIMIT 5;
 /* the results are 24846 in 2000, 49263 in 2000, 97604 in 2000,
 27841 in 2000, and 42759 in 2000 */
 
-/* Here I use a subquery to view the top 90th percentile cutoff for total_sales*/
+/* Here I use a subquery to view the top 90th percentile cutoff for population*/
 
 SELECT *
 FROM census_data
